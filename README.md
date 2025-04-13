@@ -3,7 +3,7 @@
 This project is a simplified clone of the Amazon shopping platform built using **HTML**, **CSS**, and **JavaScript**. It mimics core functionalities such as browsing products, adding items to the cart, selecting delivery options, and placing orders.
 
 ## 🔗 Live Demo
- URL : https://amazon-clone-git-main-jeya-ananthi-ss-projects.vercel.app
+ URL : https://amazon-clone-jspro.netlify.app/
 
 ---
 
