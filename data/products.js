@@ -58,7 +58,7 @@ console.log(date.toLocaleTimeString());
 export let products = [];
 
 export function loadProductsFetch() {
-  const promise = fetch("http://supersimplebackend.dev/products")
+  const promise = fetch("https://supersimplebackend.dev/products")
     .then((response) => {
       return response.json();
     })
